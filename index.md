@@ -11,3 +11,7 @@ WHO ARE YOU ?
 #include
 ["Hello, world!"]:
 ```
+- [ ] hello
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
